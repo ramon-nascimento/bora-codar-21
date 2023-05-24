@@ -27,11 +27,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - NextJS
 - TypeScript
+- Tailwind CSS
 - Git e Github
 
 ## 💻 Projeto
 
 O projeto exibe uma lista de produtos simulando um carrinho de compras.
+Você pode acessa-lo clicando [aqui](https://bora-codar-21.vercel.app/)
 
 ## 🔖 Layout
 
