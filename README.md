@@ -35,7 +35,7 @@ O projeto exibe uma lista de produtos simulando um carrinho de compras.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/luQBJbFzTQXwLWArl95U0Y/Carrinho-de-compras-%E2%80%A2-Desafio-21-(Community)?type=design&node-id=3-811&t=zw8GqKat13M2q1yo-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1243194167725942248). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
